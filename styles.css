@@ -62,3 +62,7 @@
  width: 100%;
  flex: 1;
 }
+
+.nav-item:nth-child(1) {
+ background-color: ;
+}
