@@ -53,6 +53,10 @@
  width: 75%;
 }
 
+.three-quarter {
+ width: 75%;
+}
+
 .nav-list {
  display: flex;
  flex-direction: column;
@@ -60,9 +64,4 @@
 
 .nav-item {
  width: 100%;
- flex: 1;
-}
-
-.nav-item:nth-child(1) {
- background-color: ;
 }
